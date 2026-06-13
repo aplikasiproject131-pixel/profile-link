@@ -1,0 +1,53 @@
+/* ---------Customizer--------- */
+.control-section-trendy-storefront h3.accordion-section-title {
+  font-size: 15px !important;
+  color: #fff !important;
+  background: linear-gradient(to right, #7114EF, #1475F7) !important;
+  padding: 12px 10px;
+}
+a.button.button-secondary.alignright {
+  color: #000;
+  box-shadow: none;
+  font-weight: bold;
+  padding: 0px 10px;
+  background: #fff;
+  height: 30px;
+  font-size: 15px !important;
+  border-radius: 0;
+  border: none;
+  margin-top: -3px;
+}
+a.button.button-secondary.alignright:hover {
+  background: #000;
+  color: #fff;
+  border:none;
+}
+.customize-pane-parent .control-section .accordion-section-title button:before {
+  font-family: dashicons;
+  content: "\f103";
+  font-size: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+#accordion-panel-nav_menus .accordion-section-title button:before {
+  content: "\f333";
+}
+
+li#accordion-section-trendy_storefront_go_pro.cannot-expand .accordion-section-title:after
+{
+  display: none;
+}
+#customize-theme-controls .customize-pane-parent{
+  overflow: hidden;
+}
+li#accordion-section-trendy_storefront_go_pro a {
+  background: #fff !important;
+  padding: 5px 10px !important;
+  color: #000 !important;
+  line-height: normal !important;
+  min-height: 30px !important;
+}
+li#accordion-section-trendy_storefront_go_pro a:hover{
+  background: #000 !important;
+  color: #fff !important;
+}

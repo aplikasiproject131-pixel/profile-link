@@ -1,0 +1,1136 @@
+# Copyright (C) 2026 Apex Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Trendy Storefront 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/trendy-storefront\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-05-28T09:06:46+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: trendy-storefront\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Trendy Storefront"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.apexthemes.net/products/trendy-storefront/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Trendy Storefront is a modern and versatile electronics and gadget store theme designed for online retailers, tech shops, and multipurpose ecommerce businesses. With a clean and organized layout, this responsive ecommerce theme is perfect for showcasing electronics, smart devices, accessories, appliances, and digital products in a professional way. The stylish homepage sections, featured product areas, and category-based layouts help customers browse products easily while creating an engaging online shopping experience. Built with WooCommerce compatibility, Trendy Storefront allows you to manage products, highlight promotions, and organize collections effortlessly. Its customizable design, fast-loading performance, and SEO-friendly structure make it an ideal shop theme for growing online stores and modern retailers. Whether you sell smart watches, laptops, cameras, speakers, gaming accessories, fashion clothing, or lifestyle merchandise, this customizable theme delivers a smooth and mobile-friendly shopping experience. Perfect for a fashion shop, boutique, clothing retailer, or creative ecommerce shop, Trendy Storefront works as a reliable fashion theme and responsive shop solution for every modern online store. Suitable for a simple shop, shop store, or large ecommerce theme project, it helps businesses create a professional Fashion Shop with organized layouts, stylish designs, and user-friendly shopping features."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Apex Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.apexthemes.net/"
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "This is not the page you are looking for. "
+msgstr ""
+
+#: 404.php:23
+msgid "It appears that nothing was discovered here. Could you try a search or one of the sites below?"
+msgstr ""
+
+#: apex-library/customizer.php:144
+msgid "Trendy Storefront Pro"
+msgstr ""
+
+#: apex-library/customizer.php:145
+msgid "Buy Pro"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:174
+msgid "Failed to find TGM"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:271
+#: apex-library/dashboard/dashboard-settings.php:29
+msgid "Install and Activate Recommended Plugins"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:275
+#: apex-library/dashboard/dashboard-settings.php:31
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:280
+#: apex-library/dashboard/dashboard-contents.php:284
+#: apex-library/dashboard/dashboard-settings.php:36
+#: apex-library/dashboard/dashboard-settings.php:38
+msgid "Begin With Demo Import"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:289
+#: apex-library/dashboard/dashboard-settings.php:43
+msgid "Customize Your Site"
+msgstr ""
+
+#. Translators: %s refers to the theme or plugin name.
+#: apex-library/dashboard/dashboard-contents.php:365
+msgid "If your website is already live and containing data, please make a backup. This importer will override the %s's new customizable values."
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:381
+msgid "View Site"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:384
+msgid "Customize Site"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:387
+msgid "Done"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:438
+msgid "No Slug Found"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:455
+msgid "Activating Plugin"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:470
+msgid "Updating Plugin"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:485
+msgid "Installing Plugin"
+msgstr ""
+
+#: apex-library/dashboard/dashboard-contents.php:494
+msgid "Success"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:206
+#: index.php:21
+msgid "Home"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:214
+msgid "Blogs"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:222
+msgid "Pages"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:230
+msgid "Submenu Page One"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:239
+msgid "Submenu Page Two"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:247
+msgid "About"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:254
+msgid "Services"
+msgstr ""
+
+#: apex-library/dashboard/setup.php:261
+msgid "Contact"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:400
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:401
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:1042
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:1243
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2701
+#: apex-library/theme-info.php:55
+#: functions.php:484
+msgid "Version"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: apex-library/dashboard/tgm/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: apex-library/dashboard/tgm/tgm.php:10
+msgid "WooCommerce"
+msgstr ""
+
+#: apex-library/dashboard/tgm/tgm.php:16
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: apex-library/dashboard/tgm/tgm.php:23
+msgid "Translate WordPress with GTranslate"
+msgstr ""
+
+#: apex-library/dashboard/tgm/tgm.php:30
+msgid "Currency Switcher for WooCommerce"
+msgstr ""
+
+#: apex-library/footer-options.php:11
+msgid "Footer Options"
+msgstr ""
+
+#: apex-library/footer-options.php:19
+msgid "Footer Text Options"
+msgstr ""
+
+#: apex-library/footer-options.php:31
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: apex-library/footer-widgets.php:10
+msgid "Footer"
+msgstr ""
+
+#: apex-library/header-options.php:11
+msgid "Homepage Options"
+msgstr ""
+
+#: apex-library/header-options.php:20
+msgid "Header Options"
+msgstr ""
+
+#: apex-library/header-options.php:33
+msgid "Show Currency Switcher"
+msgstr ""
+
+#: apex-library/header-options.php:44
+msgid "Show Language Translator"
+msgstr ""
+
+#: apex-library/home-options.php:12
+msgid "Product Slider"
+msgstr ""
+
+#: apex-library/home-options.php:13
+msgid "<p class=\"sec-title\">Product Slider</p>"
+msgstr ""
+
+#: apex-library/home-options.php:25
+msgid "Show Product Slider"
+msgstr ""
+
+#: apex-library/home-options.php:37
+msgid "Add Slider Title"
+msgstr ""
+
+#: apex-library/home-options.php:49
+msgid "Add Slider Text"
+msgstr ""
+
+#: apex-library/home-options.php:78
+msgid "Select Product Category to display Slider Left"
+msgstr ""
+
+#: apex-library/home-options.php:101
+msgid "New Arrival Section"
+msgstr ""
+
+#: apex-library/home-options.php:102
+msgid "<p class=\"sec-title\">Featured Post</p>"
+msgstr ""
+
+#: apex-library/home-options.php:114
+msgid "Show Products"
+msgstr ""
+
+#: apex-library/home-options.php:126
+msgid "Add Section Title"
+msgstr ""
+
+#: apex-library/home-options.php:138
+msgid "Add Section Text"
+msgstr ""
+
+#: apex-library/home-options.php:146
+msgid "Slider Promo Boxes"
+msgstr ""
+
+#: apex-library/home-options.php:147
+msgid "<p class=\"sec-title\">Slider Boxes</p>"
+msgstr ""
+
+#: apex-library/home-options.php:160
+msgid "Show Section"
+msgstr ""
+
+#: apex-library/home-options.php:176
+msgid "Box 1 Image"
+msgstr ""
+
+#: apex-library/home-options.php:188
+msgid "Box 1 Title"
+msgstr ""
+
+#: apex-library/home-options.php:198
+msgid "Box 1 Text"
+msgstr ""
+
+#: apex-library/home-options.php:209
+msgid "Box 1 Button Text"
+msgstr ""
+
+#: apex-library/home-options.php:220
+msgid "Box 1 Link"
+msgstr ""
+
+#: apex-library/home-options.php:235
+msgid "Customer Image 1"
+msgstr ""
+
+#: apex-library/home-options.php:243
+msgid "Customer Image 2"
+msgstr ""
+
+#: apex-library/home-options.php:251
+msgid "Customer Image 3"
+msgstr ""
+
+#: apex-library/home-options.php:259
+msgid "Customer Image 4"
+msgstr ""
+
+#: apex-library/home-options.php:268
+msgid "Review Count"
+msgstr ""
+
+#: apex-library/home-options.php:278
+msgid "Review Label"
+msgstr ""
+
+#: apex-library/home-options.php:287
+msgid "Review Description"
+msgstr ""
+
+#: apex-library/home-options.php:298
+msgid "Review Rating (1-5)"
+msgstr ""
+
+#: apex-library/home-options.php:319
+msgid "Box 3 Image"
+msgstr ""
+
+#: apex-library/home-options.php:330
+msgid "Box 3 Title"
+msgstr ""
+
+#: apex-library/home-options.php:340
+msgid "Box 3 Text"
+msgstr ""
+
+#: apex-library/home-options.php:350
+msgid "Box 3 Button Text"
+msgstr ""
+
+#: apex-library/home-options.php:360
+msgid "Box 3 Link"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Page Template"
+msgstr ""
+
+#: apex-library/homepage-template.php:74
+msgid "Shop Now"
+msgstr ""
+
+#: apex-library/homepage-template.php:225
+msgid "Product Available"
+msgstr ""
+
+#: apex-library/homepage-template.php:233
+msgid "No categories found."
+msgstr ""
+
+#: apex-library/homepage-template.php:239
+msgid "See All Category"
+msgstr ""
+
+#: apex-library/homepage-template.php:318
+#: functions.php:426
+msgid "No rating"
+msgstr ""
+
+#: apex-library/homepage-template.php:357
+msgid "Add to Bag"
+msgstr ""
+
+#: apex-library/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: apex-library/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: apex-library/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: apex-library/template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: apex-library/template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: apex-library/template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: apex-library/template-parts/content-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: apex-library/template-parts/content-page.php:34
+#: apex-library/template-tags.php:97
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: apex-library/template-parts/navigation.php:16
+msgid "Top Menu"
+msgstr ""
+
+#. translators: %s: post date.
+#: apex-library/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on: %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: apex-library/template-tags.php:44
+msgctxt "post author"
+msgid "by: %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: apex-library/template-tags.php:61
+msgid " / "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: apex-library/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: apex-library/template-tags.php:73
+msgid "%1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: apex-library/template-tags.php:81
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: apex-library/theme-info.php:13
+#: apex-library/theme-info.php:14
+#: functions.php:491
+msgid "Get Started"
+msgstr ""
+
+#: apex-library/theme-info.php:60
+#: apex-library/theme-info.php:80
+#: functions.php:495
+msgid "Get Premium"
+msgstr ""
+
+#: apex-library/theme-info.php:63
+#: apex-library/theme-info.php:83
+#: functions.php:499
+msgid "Live Demo"
+msgstr ""
+
+#: apex-library/theme-info.php:66
+#: apex-library/theme-info.php:86
+msgid "Documentation"
+msgstr ""
+
+#: apex-library/theme-info.php:105
+msgid "Import Demo Now"
+msgstr ""
+
+#: apex-library/theme-info.php:109
+msgid "Visit Site"
+msgstr ""
+
+#: apex-library/theme-options.php:11
+msgid "Theme Options"
+msgstr ""
+
+#: apex-library/theme-options.php:19
+msgid "Sidebar Options"
+msgstr ""
+
+#: apex-library/theme-options.php:36
+msgid "Blog Sidebar"
+msgstr ""
+
+#: apex-library/theme-options.php:41
+#: apex-library/theme-options.php:66
+#: apex-library/theme-options.php:91
+#: apex-library/theme-options.php:116
+msgid "Left Sidebar"
+msgstr ""
+
+#: apex-library/theme-options.php:42
+#: apex-library/theme-options.php:67
+#: apex-library/theme-options.php:92
+#: apex-library/theme-options.php:117
+msgid "Right Sidebar"
+msgstr ""
+
+#: apex-library/theme-options.php:43
+#: apex-library/theme-options.php:68
+#: apex-library/theme-options.php:93
+#: apex-library/theme-options.php:118
+msgid "No Sidebar"
+msgstr ""
+
+#: apex-library/theme-options.php:61
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: apex-library/theme-options.php:86
+msgid "Archive Sidebar"
+msgstr ""
+
+#: apex-library/theme-options.php:111
+msgid "Page Sidebar"
+msgstr ""
+
+#: apex-library/theme-options.php:126
+#: apex-library/theme-options.php:140
+msgid "Excerpt Length"
+msgstr ""
+
+#: apex-library/theme-options.php:141
+msgid "Note: Min 5 & Max 100."
+msgstr ""
+
+#: apex-library/theme-options.php:150
+#: apex-library/theme-options.php:156
+msgid "Read More"
+msgstr ""
+
+#: apex-library/theme-options.php:164
+msgid "Read More Label"
+msgstr ""
+
+#: archive.php:49
+#: index.php:51
+#: search.php:56
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:50
+#: index.php:52
+#: search.php:57
+msgid "Next page"
+msgstr ""
+
+#: archive.php:51
+#: index.php:53
+#: search.php:58
+msgid "Page"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:25
+msgid "About Us"
+msgstr ""
+
+#: footer.php:26
+msgid "This is default About Us text. Customize this in your widgets area. We are a passionate team dedicated to delivering quality services and exceptional support to our customers every step of the way. With years of experience and a commitment to innovation, we strive to meet the unique needs of every client."
+msgstr ""
+
+#: footer.php:37
+#: sidebar.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:62
+msgid "Contact Info"
+msgstr ""
+
+#: functions.php:23
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:59
+msgid "Blue"
+msgstr ""
+
+#: functions.php:64
+msgid "Green"
+msgstr ""
+
+#: functions.php:69
+msgid "Orange"
+msgstr ""
+
+#: functions.php:74
+msgid "Black"
+msgstr ""
+
+#: functions.php:79
+msgid "Grey"
+msgstr ""
+
+#: functions.php:88
+msgid "small"
+msgstr ""
+
+#: functions.php:89
+msgid "S"
+msgstr ""
+
+#: functions.php:94
+msgid "regular"
+msgstr ""
+
+#: functions.php:95
+msgid "M"
+msgstr ""
+
+#: functions.php:100
+msgid "larger"
+msgstr ""
+
+#: functions.php:101
+msgid "L"
+msgstr ""
+
+#: functions.php:106
+msgid "huge"
+msgstr ""
+
+#: functions.php:107
+msgid "XL"
+msgstr ""
+
+#: functions.php:143
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:145
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:155
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:157
+#: functions.php:169
+#: functions.php:181
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:167
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:179
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:375
+msgid "Security check failed."
+msgstr ""
+
+#: functions.php:381
+msgid "No category selected."
+msgstr ""
+
+#: functions.php:400
+msgid "No products found in this category."
+msgstr ""
+
+#: functions.php:504
+msgid "Theme Screenshot"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:92
+msgid "Shopping cart"
+msgstr ""
+
+#: search.php:16
+msgid "Results For: "
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:28
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform-product.php:15
+msgid "Search for:"
+msgstr ""
+
+#: searchform-product.php:21
+msgid "Search products…"
+msgstr ""
+
+#: searchform-product.php:29
+#: sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:47
+msgid "Tags"
+msgstr ""
+
+#: single.php:33
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:33
+msgid "Previous"
+msgstr ""
+
+#: single.php:34
+msgid "Next Post"
+msgstr ""
+
+#: single.php:34
+msgid "Next"
+msgstr ""

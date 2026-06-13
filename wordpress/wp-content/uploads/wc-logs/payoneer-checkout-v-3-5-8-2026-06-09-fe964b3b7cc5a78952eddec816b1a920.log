@@ -1,0 +1,4 @@
+2026-06-09T08:43:49+00:00 INFO Started creating list session.
+2026-06-09T08:43:49+00:00 ERROR Failed to create LIST session: Failed to create list session. [caused by: Api request failed. Exception was caught when trying to send request: URL yang sah tidak diberikan. → URL yang sah tidak diberikan.] CONTEXT: {"exception":{}}
+2026-06-09T08:44:13+00:00 INFO Started creating list session.
+2026-06-09T08:44:13+00:00 ERROR Failed to create LIST session: Failed to create list session. [caused by: Api request failed. Exception was caught when trying to send request: URL yang sah tidak diberikan. → URL yang sah tidak diberikan.] CONTEXT: {"exception":{}}
